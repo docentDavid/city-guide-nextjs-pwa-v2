@@ -31,13 +31,5 @@ export default function manifest(): MetadataRoute.Manifest {
       },
     ],
     categories: ["travel", "lifestyle", "tourism"],
-    screenshots: [
-      {
-        src: "/screenshots/home.png",
-        sizes: "1280x720",
-        type: "image/png",
-        form_factor: "wide",
-      },
-    ],
   };
 }
